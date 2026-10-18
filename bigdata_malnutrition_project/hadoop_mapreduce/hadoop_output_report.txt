@@ -1,0 +1,47 @@
+Region	Metric_Type	Category	Total_Count
+-----------------------------------------------------------------
+Africa	Disease	Acute Respiratory Infection (ARI/Pneumonia)	4,020
+Africa	Disease	Diarrheal / Waterborne Illness	8,101
+Africa	Disease	Febrile / Systemic Illness	4,959
+Africa	Disease	Healthy / No Acute Infection	18,206
+Africa	Malnutrition	Moderate Malnutrition (MAM)	14,873
+Africa	Malnutrition	Normal / Well-Nourished	15,456
+Africa	Malnutrition	Severe Malnutrition (SAM)	4,957
+Africa	Survival	Critical / High Mortality Risk	1,980
+Africa	Survival	Survives	33,306
+Americas	Disease	Acute Respiratory Infection (ARI/Pneumonia)	1,307
+Americas	Disease	Diarrheal / Waterborne Illness	2,755
+Americas	Disease	Febrile / Systemic Illness	1,662
+Americas	Disease	Healthy / No Acute Infection	6,143
+Americas	Malnutrition	Moderate Malnutrition (MAM)	5,037
+Americas	Malnutrition	Normal / Well-Nourished	5,150
+Americas	Malnutrition	Severe Malnutrition (SAM)	1,680
+Americas	Survival	Critical / High Mortality Risk	654
+Americas	Survival	Survives	11,213
+Asia	Disease	Acute Respiratory Infection (ARI/Pneumonia)	4,516
+Asia	Disease	Diarrheal / Waterborne Illness	9,230
+Asia	Disease	Febrile / Systemic Illness	5,525
+Asia	Disease	Healthy / No Acute Infection	20,446
+Asia	Malnutrition	Moderate Malnutrition (MAM)	16,664
+Asia	Malnutrition	Normal / Well-Nourished	17,434
+Asia	Malnutrition	Severe Malnutrition (SAM)	5,619
+Asia	Survival	Critical / High Mortality Risk	2,190
+Asia	Survival	Survives	37,527
+Europe	Disease	Acute Respiratory Infection (ARI/Pneumonia)	914
+Europe	Disease	Diarrheal / Waterborne Illness	1,837
+Europe	Disease	Febrile / Systemic Illness	1,165
+Europe	Disease	Healthy / No Acute Infection	4,193
+Europe	Malnutrition	Moderate Malnutrition (MAM)	3,388
+Europe	Malnutrition	Normal / Well-Nourished	3,566
+Europe	Malnutrition	Severe Malnutrition (SAM)	1,155
+Europe	Survival	Critical / High Mortality Risk	464
+Europe	Survival	Survives	7,645
+Oceania	Disease	Acute Respiratory Infection (ARI/Pneumonia)	578
+Oceania	Disease	Diarrheal / Waterborne Illness	1,142
+Oceania	Disease	Febrile / Systemic Illness	725
+Oceania	Disease	Healthy / No Acute Infection	2,576
+Oceania	Malnutrition	Moderate Malnutrition (MAM)	2,111
+Oceania	Malnutrition	Normal / Well-Nourished	2,255
+Oceania	Malnutrition	Severe Malnutrition (SAM)	655
+Oceania	Survival	Critical / High Mortality Risk	258
+Oceania	Survival	Survives	4,763
